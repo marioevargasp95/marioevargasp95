@@ -144,11 +144,14 @@ Análisis de contractibilidad en suscripción exequial: diccionario de datos, re
 ## Estadísticas GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marioevargasp95&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false&title_color=003B4B&icon_color=5CB8B2&text_color=323e45)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marioevargasp95&layout=compact&hide_border=true&langs_count=6&title_color=003B4B&text_color=323e45)
-
+<table><tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=marioevargasp95&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&title_color=003B4B&icon_color=5CB8B2&text_color=323e45&bg_color=ffffff&card_width=400" height="175"/>
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioevargasp95&layout=compact&hide_border=true&langs_count=6&title_color=003B4B&text_color=323e45&bg_color=ffffff&card_width=300" height="175"/>
+</td>
+</tr></table>
 </div>
 
 ---
