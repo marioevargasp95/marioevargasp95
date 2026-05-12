@@ -12,6 +12,7 @@
 
 ## Sobre mí
 Líder estratégico de datos e inteligencia artificial con trayectoria demostrada en transformación digital, gobierno de datos (DAMA-DMBOK) y adopción de AI/GenAI con impacto directo en P&L. Diseña ecosistemas analíticos de clase empresarial — desde arquitecturas lakehouse y plataformas de BI hasta modelos NLP y deep learning en producción — conectándolos a los objetivos del negocio bajo marcos OKR. Experiencia transversal en sectores público y privado (educación superior, estadística nacional, movilidad y servicios), con probada capacidad para liderar equipos técnicos, comunicar a nivel C-Level y convertir datos en ventaja competitiva medible.
+
 ```python
 perfil = {
     "rol"         : "Director de Analítica de Datos",
