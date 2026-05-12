@@ -141,18 +141,25 @@ Análisis de contractibilidad en suscripción exequial: diccionario de datos, re
 
 ---
 
-## Estadísticas GitHub
+## Actividad & Repositorios
 
 <div align="center">
-<table><tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=marioevargasp95&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&title_color=003B4B&icon_color=5CB8B2&text_color=323e45&bg_color=ffffff&card_width=400" height="175"/>
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioevargasp95&layout=compact&hide_border=true&langs_count=6&title_color=003B4B&text_color=323e45&bg_color=ffffff&card_width=300" height="175"/>
-</td>
-</tr></table>
+
+[![Repos](https://img.shields.io/badge/Repositorios%20Públicos-8-003B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marioevargasp95?tab=repositories)
+[![Python](https://img.shields.io/badge/Lenguaje%20Principal-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/marioevargasp95?tab=repositories&language=python)
+[![Jupyter](https://img.shields.io/badge/Notebooks-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/marioevargasp95?tab=repositories&language=jupyter+notebook)
+
 </div>
+
+### Distribución de proyectos
+
+| Área | Proyectos |
+|---|---|
+| ⚙️ ETL & Data Engineering | `call-center-automation` · `informe-ingresos-retiros` · `proyectos-prevision` |
+| 📊 Visualización & Dashboards | `mortality_dashboard` |
+| 🧠 Machine Learning & Computer Vision | `ErgoDesk_clasificador_de_posturas` |
+| 🔌 IoT & Hardware | `IoT-Monitoreo-Ergonomico` |
+| 🔬 Análisis Exploratorio | `cifrado-descifrado-tkinter` |
 
 ---
 
