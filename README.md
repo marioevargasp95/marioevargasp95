@@ -16,15 +16,13 @@ Hace un tiempo empecé a documentar cada proyecto que desarrollaba como si algui
 
 Me especializo en construir soluciones de analítica de extremo a extremo: desde pipelines ETL sobre fuentes heterogéneas (APIs, SAP, Parquet, CSV) hasta dashboards en producción, modelos de machine learning y sistemas IoT. Todo conectado al negocio y documentado para que no quede en una sola cabeza.
 
-```python
-perfil = {
-    "rol"         : "Director de Analítica de Datos",
-    "ubicacion"   : "Bogotá, Colombia",
-    "enfoque"     : ["ETL & Data Engineering", "ML & Computer Vision", "BI & Dashboards", "IoT"],
-    "stack_core"  : ["Python", "R", "SQL", "Pandas", "Plotly/Dash", "scikit-learn"],
-    "filosofia"   : "Los datos no mienten — pero sí necesitan quien los escuche 📊"
-}
-```
+<table>
+  <tr><td>🧭 <b>Rol</b></td><td>Director de Analítica de Datos</td></tr>
+  <tr><td>📍 <b>Ubicación</b></td><td>Bogotá, Colombia</td></tr>
+  <tr><td>🎯 <b>Enfoque</b></td><td>ETL & Data Engineering · ML & Computer Vision · BI & Dashboards · IoT</td></tr>
+  <tr><td>🛠️ <b>Stack core</b></td><td>Python · R · SQL · Pandas · Plotly/Dash · scikit-learn</td></tr>
+  <tr><td>💬 <b>Filosofía</b></td><td><i>"Los datos no mienten — pero sí necesitan quien los escuche"</i></td></tr>
+</table>
 
 ---
 
